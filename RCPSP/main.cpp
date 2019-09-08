@@ -35,7 +35,7 @@ mt19937 gen(rd());
 
 uniform_real_distribution<float> dist(0,1);
 
-hello
+
 
 class Job
 {	
