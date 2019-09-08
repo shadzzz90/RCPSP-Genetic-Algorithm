@@ -1,0 +1,65 @@
+
+The predecessor for  : 1	
+The predecessor for  : 2	1 
+The predecessor for  : 3	1 
+The predecessor for  : 4	1 
+The predecessor for  : 5	4 
+The predecessor for  : 6	2 
+The predecessor for  : 7	3 
+The predecessor for  : 8	3 
+The predecessor for  : 9	4 
+The predecessor for  : 10	4 
+The predecessor for  : 11	2 
+The predecessor for  : 12	8 
+The predecessor for  : 13	3 
+The predecessor for  : 14	9 12 
+The predecessor for  : 15	2 
+The predecessor for  : 16	10 
+The predecessor for  : 17	13 14 
+The predecessor for  : 18	13 
+The predecessor for  : 19	8 
+The predecessor for  : 20	5 11 18 
+The predecessor for  : 21	16 
+The predecessor for  : 22	16 17 18 
+The predecessor for  : 23	20 22 
+The predecessor for  : 24	19 23 
+The predecessor for  : 25	10 15 20 
+The predecessor for  : 26	11 
+The predecessor for  : 27	7 8 
+The predecessor for  : 28	21 27 
+The predecessor for  : 29	19 
+The predecessor for  : 30	6 24 25 
+The predecessor for  : 31	26 28 
+The predecessor for  : 32	29 30 31 
+The predecessor for  : 1	
+The predecessor for  : 2	1 
+The predecessor for  : 3	1 
+The predecessor for  : 4	1 
+The predecessor for  : 5	4 
+The predecessor for  : 6	2 
+The predecessor for  : 7	3 
+The predecessor for  : 8	3 
+The predecessor for  : 9	4 
+The predecessor for  : 10	4 
+The predecessor for  : 11	2 
+The predecessor for  : 12	8 
+The predecessor for  : 13	3 
+The predecessor for  : 14	9 12 
+The predecessor for  : 15	2 
+The predecessor for  : 16	10 
+The predecessor for  : 17	13 14 
+The predecessor for  : 18	13 
+The predecessor for  : 19	8 
+The predecessor for  : 20	5 11 18 
+The predecessor for  : 21	16 
+The predecessor for  : 22	16 17 18 
+The predecessor for  : 23	20 22 
+The predecessor for  : 24	19 23 
+The predecessor for  : 25	10 15 20 
+The predecessor for  : 26	11 
+The predecessor for  : 27	7 8 
+The predecessor for  : 28	21 27 
+The predecessor for  : 29	19 
+The predecessor for  : 30	6 24 25 
+The predecessor for  : 31	26 28 
+The predecessor for  : 32	29 30 31 
