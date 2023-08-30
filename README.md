@@ -16,7 +16,7 @@ The Resource Constrained Project Scheduling Problem is a classic optimization pr
 
 1. Clone the repository:
    ```bash
-   git clone [repository-link](https://github.com/shadzzz90/RCPSP-Genetic-Algorithm)
+   git clone https://github.com/shadzzz90/RCPSP-Genetic-Algorithm
    ```
 
 2. Open the solution file in Visual Studio.
